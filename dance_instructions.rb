@@ -2,9 +2,9 @@
 # Code your methods below
 puts "Assume the proper stance
 
-1. Plant legs far apart, bend knees slightly and keep posture loose
+1. Plant legs far apart, bend knees slightly and keep posture loose"
 
-Base Footwork
+puts "Base Footwork
 
 1. Lift right foot
 
@@ -18,7 +18,7 @@ puts "Skip Step Left
 2. Bounce left foot back up slightly, kicking it a few inches back
 3. Left, Right, Left and Left"
 
-"Skip Step Right
+puts "Skip Step Right
 
 1. Lower right foot to the ground
 2. Bounce right foot back up slightly, kicking it a few inches back
