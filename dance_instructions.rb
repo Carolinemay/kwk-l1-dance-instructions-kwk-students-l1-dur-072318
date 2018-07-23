@@ -1,28 +1,31 @@
 
 # Code your methods below
-def "Assume the proper stance
+def Assume the proper stance
 
-1. Plant legs far apart, bend knees slightly and keep posture loose"
+1. Plant legs far apart, bend knees slightly and keep posture loose
+end
 
-puts "Base Footwork
+def Base Footwork
 
 1. Lift right foot
 
 2. Return right foot to the ground
 
-3. Finishing with a **small skip-step** backward"
+3. Finishing with a **small skip-step** backward
+end
 
-puts "Skip Step Left
+def Skip Step Left
 
 1. Lower left foot to the ground
 2. Bounce left foot back up slightly, kicking it a few inches back
-3. Left, Right, Left and Left"
+3. Left, Right, Left and Left
 
-puts "Skip Step Right
+def Skip Step Right
 
 1. Lower right foot to the ground
 2. Bounce right foot back up slightly, kicking it a few inches back
-3. Right, Left, Right and Right"
+3. Right, Left, Right and Right
+end
 
 def bob the reins
   1. Holding your arms out in front of you, straight and at chest level
