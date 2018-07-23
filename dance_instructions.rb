@@ -27,3 +27,17 @@ Skip Step Right
 2. Bounce right foot back up slightly, kicking it a few inches back
 3. Right, Left, Right and Right
 end
+
+def upper body
+  1. Holding your arms out in front of you, straight and at chest level
+2. Cross your right wrist over your left and hold them together
+3. Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. 
+end
+upper body
+upper body
+upper body
+upper body
+upper body
+upper body
+upper body
+upper body
