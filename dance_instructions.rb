@@ -16,9 +16,9 @@ puts "Skip Step Left
 
 1. Lower left foot to the ground
 2. Bounce left foot back up slightly, kicking it a few inches back
-3. Left, Right, Left and Left
+3. Left, Right, Left and Left"
 
-Skip Step Right
+"Skip Step Right
 
 1. Lower right foot to the ground
 2. Bounce right foot back up slightly, kicking it a few inches back
