@@ -1,6 +1,6 @@
 
 # Code your methods below
-def lower body
+def assume stance
   Assume the proper stance
 
 1. Plant legs far apart, bend knees slightly and keep posture loose
@@ -14,7 +14,7 @@ Base Footwork
 3. Finishing with a **small skip-step** backward
 end 
 
-def skip-step
+def footwork
   Skip Step Left
 
 1. Lower left foot to the ground
@@ -28,19 +28,20 @@ Skip Step Right
 3. Right, Left, Right and Right
 end
 
-def upper body
+def bob the reins
   1. Holding your arms out in front of you, straight and at chest level
 2. Cross your right wrist over your left and hold them together
 3. Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. 
 end
-upper body
-upper body
-upper body
-upper body
-upper body
-upper body
-upper body
-upper body
+bob the reins
+bob the reins
+bob the reins
+bob the reins
+bob the reins
+bob the reins
+bob the reins
+bob the reins
+
 def lasso
   1. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left.
    - Lift right arm up and point right elbow diagonally to the right.
