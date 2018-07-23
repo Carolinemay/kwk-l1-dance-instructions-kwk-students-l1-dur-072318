@@ -1,7 +1,6 @@
 
 # Code your methods below
-def assume stance
-  Assume the proper stance
+puts "Assume the proper stance
 
 1. Plant legs far apart, bend knees slightly and keep posture loose
 
@@ -11,11 +10,9 @@ Base Footwork
 
 2. Return right foot to the ground
 
-3. Finishing with a **small skip-step** backward
-end 
+3. Finishing with a **small skip-step** backward"
 
-def footwork
-  Skip Step Left
+puts "Skip Step Left
 
 1. Lower left foot to the ground
 2. Bounce left foot back up slightly, kicking it a few inches back
@@ -25,8 +22,7 @@ Skip Step Right
 
 1. Lower right foot to the ground
 2. Bounce right foot back up slightly, kicking it a few inches back
-3. Right, Left, Right and Right
-end
+3. Right, Left, Right and Right"
 
 def bob the reins
   1. Holding your arms out in front of you, straight and at chest level
@@ -39,9 +35,9 @@ bob the reins
 bob the reins
 bob the reins
 bob the reins
-bob the
 bob the reins
- reins
+bob the reins
+ 
 
 def lasso
   1. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left.
